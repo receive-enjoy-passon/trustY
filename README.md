@@ -1,2 +1,2 @@
 # trustY
-trustY node js prototype
+trustY prototype using node js, react js, ...
